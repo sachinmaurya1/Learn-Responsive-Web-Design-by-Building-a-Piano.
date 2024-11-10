@@ -56,7 +56,3 @@ Some ideas for further development include:
 ## License
 
 This project is open-source and available for personal or educational use.
-
----
-
-Feel free to replace any placeholder information (like the GitHub link or preview image link) with actual data specific to your project. Let me know if you’d like any adjustments!
