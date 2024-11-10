@@ -27,9 +27,7 @@ To view this project, you only need a web browser that supports HTML5 and CSS3.
 ### Setup
 
 1. **Clone the repository** or download the project files.
-   ```bash
-   git clone https://github.com/yourusername/piano-project.git
-   ```
+  
 2. **Open the project folder** and double-click the `index.html` file to view the piano interface in your browser.
 
 ### Project Structure
